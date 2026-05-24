@@ -13,7 +13,8 @@ Visit Cinux Repo if you want to know what device is currently being configured a
 
 -------------------------------------
 # Currently Working On
-* Modifying system 
+* Modifying system
+* Custom OS/dashboard
 -------------------------------------
 # Possible Goals 
 * Work towards custom dashboard
